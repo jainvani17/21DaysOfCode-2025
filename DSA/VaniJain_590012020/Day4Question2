@@ -1,5 +1,5 @@
 import java.util.*;
-public class Day4Question2 
+public class Rotate
 {
     public static void main(String[] args) 
     {
