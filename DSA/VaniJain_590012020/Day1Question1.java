@@ -1,9 +1,9 @@
-import java.util.*
+import java.util.*;
 public class Day1Question1
 {
     public static void main(String[] args)
 {
-    System.out.println("Enter the no. of elements in the aaray:")
+    System.out.println("Enter the no. of elements in the aaray:");
     Scanner scr=new Scanner(System.in);
     int n=scr.nextInt();
     int [] arr=new int[n];
@@ -23,4 +23,5 @@ public class Day1Question1
     {
         System.out.print(arr[i] + ",");
     }
+}
 }
