@@ -1,4 +1,4 @@
-import java.util.*
+import java.util.*;
 public class CheckDublicate
 {
     public static void main(String[] args)
@@ -30,4 +30,5 @@ public class CheckDublicate
             }
     }
         System.out.println(f);
+}
 }
